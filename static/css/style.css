@@ -93,12 +93,12 @@ nav {
     color: rgb(0, 0, 0);
     cursor: pointer;
     text-decoration: none;
-    transition: transform 0.3s ease;
+    transition: 0.3s ease;
 }
 
 .login:hover {
     background-color: rgb(168, 0, 48);
-    transform: scale(1.1);
+    transform: scale(1.01);
 }
 
 .login-about:hover {
